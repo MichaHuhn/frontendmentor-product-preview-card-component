@@ -34,8 +34,8 @@ Mobile:
 
 ### Links
 
-- Live site: [Add live site URL here](https://your-live-site-url.com)
-- Challenge solution: [Add solution URL here](https://your-solution-url.com)
+- Live site: <https://michahuhn.github.io/frontendmentor-product-preview-card-component>
+- Challenge solution: <https://www.frontendmentor.io/solutions/product-preview-card-component-using-vue-S_qXd85VNP>
 
 ## My process
 
